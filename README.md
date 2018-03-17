@@ -1,2 +1,2 @@
-# EmilCholakov.github.io
-Blog Design.
+# Blog Design.
+EmilCholakov.github.io
